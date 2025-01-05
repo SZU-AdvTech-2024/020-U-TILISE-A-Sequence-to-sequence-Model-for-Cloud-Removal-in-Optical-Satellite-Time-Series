@@ -1,0 +1,11 @@
+@article{REPO020,
+    author = "Stucker, Corinne and Garnot, Vivien Sainte Fare and Schindler, Konrad",
+    doi = "10.1109/TGRS.2023.3333391",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    keywords = "Clouds;Optical imaging;Time series analysis;Optical sensors;Cloud computing;Adaptive optics;Optical reflection;Cloud removal;image time series reconstruction;self-attention;Sentinel-2;sequence-to-sequence model",
+    number = "",
+    pages = "1-16",
+    title = "{U-TILISE: A Sequence-to-Sequence Model for Cloud Removal in Optical Satellite Time Series}",
+    volume = "61",
+    year = "2023"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="80d5770a-5b49-4986-b245-60e422b1ac70" name="qnn">
+        <fileTransfer rootFolder="/home/qnn/UTILISE" accessType="SFTP" sshConfigId="13bc6f02-da84-4b1f-8fbf-8e2aa22755e7" sshConfig="qnn@172.31.226.112:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
